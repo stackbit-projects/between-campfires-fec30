@@ -22,13 +22,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "icon",

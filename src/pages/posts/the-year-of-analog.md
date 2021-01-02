@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The year of analog
 subtitle: lorem-ipsum
 date: '2021-01-02'
 thumb_img_alt: lorem-ipsum

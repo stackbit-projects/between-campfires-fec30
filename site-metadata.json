@@ -6,7 +6,7 @@
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
